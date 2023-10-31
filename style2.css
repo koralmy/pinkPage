@@ -1,3 +1,4 @@
+
 * {
   font-family: "Assistant", sans-serif;
 }
@@ -8,6 +9,7 @@ body {
   padding: 0;
   width: 100% !important;
 }
+
 
 
 h1,
@@ -207,7 +209,7 @@ button:hover {
     text-align: center;
   }
 
-      body {
+    body {
     width: 100%;
     max-width: 1200px; 
     margin: 0 auto; 
@@ -221,6 +223,8 @@ button:hover {
     padding: .125rem .3125rem;
     font-size: .875rem;
     }
+
+
 
 
   .icons {
